@@ -37,6 +37,22 @@ Integra un **Vocoder de Fase a 432 Hz**, filtros IIR bicuadráticos en **Topolog
 
 ---
 
+## 🚀 Guía Rápida de Instalación
+
+```bash
+# 1. Clonar el repositorio
+git clone https://github.com/JosephElvisMaman1/neuromodulator-dsp.git
+cd neuromodulator-dsp
+
+# 2. Descargar dependencias de Flutter
+flutter pub get
+
+# 3. Compilar y Ejecutar en Windows Desktop
+flutter run -d windows
+```
+
+---
+
 ## ☕ Apoya al Desarrollador Estudiante
 
 ¡Hola! 👋 Soy un estudiante apasionado por el procesamiento digital de señales (DSP), el biohacking acústico y el desarrollo de software de alto rendimiento.

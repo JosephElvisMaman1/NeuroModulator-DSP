@@ -97,7 +97,7 @@ The frontend is built with Flutter featuring an industrial neuromorphic dark UI:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/neuromodulator-dsp.git
+git clone https://github.com/JosephElvisMaman1/neuromodulator-dsp.git
 cd neuromodulator-dsp
 
 # 2. Get Flutter dependencies
