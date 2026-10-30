@@ -1,0 +1,59 @@
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+.pub-cache/
+.pub/
+
+# Android
+android/**/gradle-wrapper.jar
+android/.gradle
+android/captures/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+android/**/GeneratedPluginRegistrant.java
+android/app/build/
+android/app/src/main/jniLibs/
+
+# Windows Desktop build output
+windows/flutter/ephemeral/
+windows/flutter/generated_plugin_registrant.cc
+windows/flutter/generated_plugin_registrant.h
+windows/flutter/generated_plugins.cmake
+
+# Visual Studio / MSVC / CMake
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+out/
+CMakeSettings.json
+
+# C++ Object files & binaries
+*.obj
+*.o
+*.lib
+*.a
+*.exp
+*.ilk
+*.pdb
+*.dll
+*.exe
+*.so
+*.dylib
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
